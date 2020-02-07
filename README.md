@@ -1,8 +1,5 @@
 # Click Me Spongebob!
 
-This web application can be accessed at https://dproc96.github.io/clicky-game/
-
-![Screenshot](https://i.imgur.com/20Ig0ih.png)
 
 ## How To Play
 
